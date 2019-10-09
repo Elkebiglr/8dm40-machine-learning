@@ -28,19 +28,19 @@ Additional reading materials such as journal articles are listed within the lect
 * [Practical work](practicals/week_3.ipynb)
 
 ### Deep learning I
-* [Lecture slides]
-* [Practical work]
+* [Lecture slides](lectures/week_4.pdf)
+* [Practical work](practicals/week_4.ipynb)
 
 ### Deep learning II
-* [Lecture slides]
-* [Practical work]
+* Lecture slides [part 1](lectures/week_5_1.pdf) and [part 2](lectures/week_5_2.pdf)
+* [Practical work](https://colab.research.google.com/drive/1zLIAaGX8Z53YD8iR2FLNl8D-CXaQBTX-) @ Google Colab
 
 ### Support vector machines, random forests
 * [Lecture slides]
 * [Practical work]
 
 ### Unsupervised machine learning
-* [Reading list]
+* [Reading list](practicals/week_7.md)
 
 # Course informatiom
 
